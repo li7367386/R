@@ -21,6 +21,9 @@ Bas.summary <- function(x){
 Bas.summary(c(2,5,8,1,4,3,6,5))
 
 
+uywedilucyieoruy
+
+
 
 install.packages("ggplot2")
 library("ggplot2")
